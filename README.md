@@ -1,2 +1,2 @@
 # Front_End
-FE dùng React
+FE dùng TypeScript
